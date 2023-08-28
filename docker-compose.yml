@@ -1,0 +1,18 @@
+version: '2.4'
+services:
+  jewel:
+    restart: always
+    image: jewel
+    container_name: Jewel
+    ports:
+      - "5005:3000"
+    cpu_count: 1
+    cpus: 1
+    mem_limit: 2g
+    networks:
+       - jewel
+networks:
+    jewel:
+        driver_opts:
+                com.docker.network.bridge.enable_ip_masquerade: "true"
+

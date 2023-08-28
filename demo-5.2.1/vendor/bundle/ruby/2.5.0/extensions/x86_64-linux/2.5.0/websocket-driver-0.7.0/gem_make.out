@@ -1,0 +1,15 @@
+current directory: /home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/home/bonclay/.rbenv/versions/2.5.8/bin/ruby -r ./siteconf20220818-1213568-vwoxuf.rb extconf.rb
+creating Makefile
+
+current directory: /home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20220818-1213568-q3diq7

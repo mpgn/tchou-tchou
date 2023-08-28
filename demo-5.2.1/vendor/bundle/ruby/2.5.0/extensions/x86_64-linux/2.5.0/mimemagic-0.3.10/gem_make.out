@@ -1,0 +1,3 @@
+current directory: /home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/gems/mimemagic-0.3.10/ext/mimemagic
+/home/bonclay/.rbenv/versions/2.5.8/bin/ruby -rrubygems /home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/gems/rake-12.3.3/exe/rake RUBYARCHDIR=/home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/extensions/x86_64-linux/2.5.0/mimemagic-0.3.10 RUBYLIBDIR=/home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/extensions/x86_64-linux/2.5.0/mimemagic-0.3.10
+mkdir -p /home/bonclay/barbhack-ctf/2022/web/rails/demo-5.2.1/vendor/bundle/ruby/2.5.0/extensions/x86_64-linux/2.5.0/mimemagic-0.3.10/mimemagic

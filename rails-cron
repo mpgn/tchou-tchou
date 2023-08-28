@@ -1,0 +1,16 @@
+RUBYGEMS_VERSION=3.0.3
+LANG=C.UTF-8
+HOSTNAME=57b90000e1df
+RUBY_VERSION=2.5.8
+GEM_HOME=/usr/local/bundle
+PWD=/home/demoniac
+HOME=/root
+BUNDLE_APP_CONFIG=/usr/local/bundle
+TERM=xterm
+BUNDLE_SILENCE_ROOT_WARNING=1
+RUBY_MAJOR=2.5
+SHLVL=1
+RUBY_DOWNLOAD_SHA256=0391b2ffad3133e274469f9953ebfd0c9f7c186238968cbdeeb0651aa02a4d6d
+PATH=/usr/local/bundle/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+*/3 * * * * /home/demoniac/script/restart.sh
